@@ -18,6 +18,7 @@ class Solution {
       }
       matrix.add(row);
     }
+    print('hello');
     return matrix;
   }
 }
